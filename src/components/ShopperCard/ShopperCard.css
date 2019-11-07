@@ -1,0 +1,16 @@
+.sh-card-wrapper {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+}
+
+.sh-card {
+    border: 3px solid black;
+    text-align: center;
+    width: 20%;
+    margin: 0 10px;
+}
